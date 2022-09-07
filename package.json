@@ -1,0 +1,23 @@
+{
+  "name": "node_gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js --experimental-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-vhotkar/NODE_GATEWAY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash-vhotkar/NODE_GATEWAY/issues"
+  },
+  "homepage": "https://github.com/akash-vhotkar/NODE_GATEWAY#readme",
+  "dependencies": {
+    "cluster": "^0.7.7"
+  }
+}
